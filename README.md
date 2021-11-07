@@ -22,3 +22,4 @@ Fully Open: Schools are open as they were during pre-pandemic times with the sam
 Partially Open: Conditional opening of schools subject to one or more of the following: operating at 50% capacity, staggered timings, alternate day functioning, in-person classes but no mid-day meals, optional attendance for in-person classes, student visits to school without regular classes, etc. The particulars for each state can be viewed under ‘additional information’ in the pop-up box on the map.
 
 Data Not Available: No reported data was found for the state/region.
+![newplot](https://user-images.githubusercontent.com/74760284/140642246-ef2aea17-13b5-490b-bbd4-b5931b96cdbd.png)
