@@ -6,7 +6,7 @@ The School Opening Status indicator tracks the current status of school re-openi
 This repository includes a geojson that reflect the new Indian states formed in 2019.
 They contain attributes that reflect the Coordiantes for Indian states and State-Codes.
 
-### Here's an overview
+### Here's an overview for Lower primary school status
 ![map](https://user-images.githubusercontent.com/74760284/140642712-ccf3a3dc-236e-4d12-8dc4-7aa019dcbe19.png)
 
  - Geospatial Data Visualization and analysis using plotly library.
@@ -14,8 +14,6 @@ They contain attributes that reflect the Coordiantes for Indian states and State
  
 **Data**
 Data are collected from state government documents and from verified media reports.
-
-Visualisation of Choropleth map to show the details of School-Opening-Status for Indian states and union territories. 
 
 **Indicator Description:** The indicator tracks the status of opening/closure of schools in different states and union territories of India for four types of schools (lower primary school, higher primary schools, high schools and higher secondary schools).
 
