@@ -3,7 +3,7 @@ The School Opening Status indicator tracks the current status of school re-openi
 
 # India States and UTs geojson
 
-This repository includes a geojson that reflect the new Indian states formed in 2020.
+This repository includes a geojson that reflect the new Indian states formed in 2019.
 They contain attributes that reflect the Coordiantes for Indian states and State-Codes.
 
 **Data**
@@ -23,3 +23,8 @@ Partially Open: Conditional opening of schools subject to one or more of the fol
 
 Data Not Available: No reported data was found for the state/region.
 ![newplot](https://user-images.githubusercontent.com/74760284/140642246-ef2aea17-13b5-490b-bbd4-b5931b96cdbd.png)
+ 
+## Here's an overview
+ - Geospatial Data Visualization and analysis using plotly library.
+ - Coordiantes for Indian states are traced using [GeoJSON](http://geojson.io/).
+ 
