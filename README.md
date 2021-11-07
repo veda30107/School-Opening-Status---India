@@ -7,7 +7,7 @@ This repository includes a geojson that reflect the new Indian states formed in 
 They contain attributes that reflect the Coordiantes for Indian states and State-Codes.
 
 ### Here's an overview
-![newplot](https://user-images.githubusercontent.com/74760284/140642246-ef2aea17-13b5-490b-bbd4-b5931b96cdbd.png)
+![map](https://user-images.githubusercontent.com/74760284/140642670-16d77dcf-02c5-4c40-8176-b2fa44a007f1.png)
 
  - Geospatial Data Visualization and analysis using plotly library.
  - Coordiantes for Indian states are traced using [GeoJSON](http://geojson.io/).
